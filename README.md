@@ -1,2 +1,4 @@
-# COP3337-Example-Repo
-Project 2
+# Creating a project for GitHub
+# By James Nichols
+ 
+print("COP3337 Fall 2022")
